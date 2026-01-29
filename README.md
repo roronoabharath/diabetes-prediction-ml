@@ -18,7 +18,7 @@ It uses a machine learning classification model trained on a healthcare dataset.
 
 ## ⚙️ Features
 
-- Simple and intuitive UI to collect user inputs
+- Simple and intuitive UI
 - Input fields:
   - Age
   - Hypertension (Yes/No)
@@ -28,7 +28,7 @@ It uses a machine learning classification model trained on a healthcare dataset.
   - Blood Glucose Level
   - Gender
   - Smoking History
-- Displays prediction result:
+- Prediction result:
   - ✅ **Positive**
   - ❌ **Negative**
 
@@ -48,6 +48,6 @@ It uses a machine learning classification model trained on a healthcare dataset.
 
 ## ▶️ How to Run the App
 
-### Install required packages
+### Install dependencies
 ```bash
 pip install streamlit pandas scikit-learn
